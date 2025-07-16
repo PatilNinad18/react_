@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PatilNinad18/react_/issues"
   },
-  "homepage": "https://github.com/PatilNinad18/react_#readme"
+  "homepage": "https://github.com/PatilNinad18/react_#readme",
+  "dependencies": {
+    "vite": "^7.0.4"
+  }
 }
